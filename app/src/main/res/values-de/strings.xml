@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Einkaufen</string>
+    <string name="action_settings">Einstellungen</string>
+    <string name="editText_errorMessage">Das Feld kan nicht leer sein.</string>
+    <string name="editText_hint_price">Preis</string>
+    <string name="editText_hint_product">Produkt</string>
+    <string name="editText_hint_shop">Markt</string>
+    <string name="button_search">Suche</string>
+    <string name="button_add_product">Hinzufügen</string>
+    <string name="button_remove_product">Entfernen</string>
+</resources>
